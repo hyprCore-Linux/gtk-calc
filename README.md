@@ -104,4 +104,5 @@ Relative to GNOME Calculator, these are deferred:
 
 ## License
 
-GPL-3.0-or-later (same family as GNOME Calculator).
+GNU General Public License v3.0. See [LICENSE](LICENSE).
+
