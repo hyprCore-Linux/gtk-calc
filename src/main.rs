@@ -24,7 +24,7 @@ use gtk::prelude::*;
 
 use window::CalcWindow;
 
-const APP_ID: &str = "org.neuronix.GtkCalc";
+const APP_ID: &str = "org.hyprcore.GtkCalc";
 
 fn main() -> glib::ExitCode {
     let app = gtk::Application::builder()
